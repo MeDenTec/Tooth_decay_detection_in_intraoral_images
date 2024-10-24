@@ -68,10 +68,10 @@ https://drive.google.com/drive/u/1/folders/1Xx-sJei7juAI5W1b9k5X4WwyJ-7aJXmc
 We would like to acknowledge the incredible contributions of the following individuals, whose expertise and collaboration made this project a success.
 
 ### Research Team
-- **Dr. Fahad Umer**  
-- **Dr. Niha Adnan**  
-- **Syed Muhammad Faizan Ahmed** (AI Engineer)  
-- **Huzaifa Ghori** (Developer)  
+- [**Dr. Fahad Umer**](https://www.linkedin.com/in/fahad-umer-82997121/)  
+- [**Dr. Niha Adnan**](https://www.linkedin.com/in/niha-adnan-09b054242/)  
+- [**Syed Muhammad Faizan Ahmed**](https://www.linkedin.com/in/smfaizanahmed/) (AI Engineer)  
+- [**Huzaifa Ghori**](https://www.linkedin.com/in/huzaifa-ghori-2087771b3/) (Developer)  
 
 ---
 
