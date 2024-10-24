@@ -63,6 +63,19 @@ You can also download and install suitable apk version for your android device f
 ``` Python
 https://drive.google.com/drive/u/1/folders/1Xx-sJei7juAI5W1b9k5X4WwyJ-7aJXmc
  ```
+## Acknowledgements
+
+We would like to acknowledge the incredible contributions of the following individuals, whose expertise and collaboration made this project a success.
+
+### Research Team
+- **Dr. Fahad Umer**  
+- **Dr. Niha Adnan**  
+- **Syed Muhammad Faizan Ahmed** (AI Engineer)  
+- **Huzaifa Ghori** (Developer)  
+
+---
+
+We are grateful for the efforts and dedication of the entire research team.
 
 
 ### App Screens
