@@ -189,7 +189,7 @@ class _LoginScreenState extends State<LoginScreen> {
             bottom: 16,
             right: 16,
             child: Text(
-              'Version: 2.0',
+              'Version: 3.0',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 12,
