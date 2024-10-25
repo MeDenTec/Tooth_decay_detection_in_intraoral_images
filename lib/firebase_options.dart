@@ -41,46 +41,22 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCTz4jQ_dp0gbpKqgT9hvgbZfDSZqfME7o',
-    appId: '1:705279424700:web:13cac9c6d88e440b0f38b9',
-    messagingSenderId: '705279424700',
-    projectId: 'dmft-newapp',
-    authDomain: 'dmft-newapp.firebaseapp.com',
-    storageBucket: 'dmft-newapp.appspot.com',
+   
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCfBMPoJAF6qgkPX19fAh-6wk0-BXMHu58',
-    appId: '1:705279424700:android:5dfb4d25883232650f38b9',
-    messagingSenderId: '705279424700',
-    projectId: 'dmft-newapp',
-    storageBucket: 'dmft-newapp.appspot.com',
+   
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCOUyyjshaoEV-Uw0DWVwZy4vCNp7Cc1R4',
-    appId: '1:705279424700:ios:9f5e2323a37c888d0f38b9',
-    messagingSenderId: '705279424700',
-    projectId: 'dmft-newapp',
-    storageBucket: 'dmft-newapp.appspot.com',
-    iosBundleId: 'com.example.dmftApp',
+  
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCOUyyjshaoEV-Uw0DWVwZy4vCNp7Cc1R4',
-    appId: '1:705279424700:ios:9f5e2323a37c888d0f38b9',
-    messagingSenderId: '705279424700',
-    projectId: 'dmft-newapp',
-    storageBucket: 'dmft-newapp.appspot.com',
-    iosBundleId: 'com.example.dmftApp',
+ 
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCTz4jQ_dp0gbpKqgT9hvgbZfDSZqfME7o',
-    appId: '1:705279424700:web:8e73fba6578f5fc90f38b9',
-    messagingSenderId: '705279424700',
-    projectId: 'dmft-newapp',
-    authDomain: 'dmft-newapp.firebaseapp.com',
-    storageBucket: 'dmft-newapp.appspot.com',
+   
   );
 }
